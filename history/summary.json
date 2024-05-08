@@ -40,19 +40,19 @@
     "url": "https://www.aprsfoundation.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.aprsfoundation.org.ico",
     "slug": "aprs-foundation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 477,
-    "timeDay": 334,
-    "timeWeek": 503,
-    "timeMonth": 529,
+    "timeDay": 381,
+    "timeWeek": 500,
+    "timeMonth": 528,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2024-05-08": 0
+      "2024-05-08": 16
     }
   },
   {
